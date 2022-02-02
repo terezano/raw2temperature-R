@@ -1,4 +1,4 @@
-# raw2temp
+# raw2temp - convert raw thermal values to temperature
 
 The purpose of this script is to convert raw thermal values obtained from a thermal camera into temperature values in °C using the package __ThermImage__ for R. 
 For further info please visit [gtatters/ThermimageCalibration](https://github.com/gtatters/ThermimageCalibration).
